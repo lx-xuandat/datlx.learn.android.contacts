@@ -5,11 +5,11 @@
     android:layout_margin="@dimen/activity_horizontal_margin"
     android:orientation="horizontal">
 
-    <ImageButton
-        android:id="@+id/imageButton"
+    <ImageView
+        android:id="@+id/img_avatar"
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:contentDescription="@string/imageButtonHelper" />
+        android:contentDescription="@string/imgAvatarHelper" />
 
     <LinearLayout
         android:layout_width="match_parent"

@@ -8,5 +8,5 @@
     <string name="enter_phone">Enter Phone</string>
     <string name="name">Name</string>
     <string name="phone">Phone</string>
-    <string name="imageButtonHelper">Click Me</string>
+    <string name="imgAvatarHelper">Click Me</string>
 </resources>
