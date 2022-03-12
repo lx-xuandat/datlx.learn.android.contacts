@@ -9,4 +9,7 @@
     <string name="name">Name</string>
     <string name="phone">Phone</string>
     <string name="imgAvatarHelper">Click Me</string>
+    <string name="call_or_message">Call Or Message</string>
+    <string name="call">Call</string>
+    <string name="send_message">Send Message</string>
 </resources>
