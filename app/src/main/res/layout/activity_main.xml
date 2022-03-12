@@ -45,20 +45,22 @@
             android:text="@string/male" />
 
         <RadioButton
-            android:id="@+id/rbt_female"
+            android:id="@+id/rbtn_female"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:checked="true"
             android:text="@string/female" />
     </RadioGroup>
 
     <Button
-        android:id="@+id/btn_add"
+        android:id="@+id/btn_add_contact"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="5dp"
         android:background="@color/black"
+        android:onClick="btnAddContactClick"
         android:padding="8dp"
         android:text="@string/add"
         android:textColor="@color/white" />
